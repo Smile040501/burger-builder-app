@@ -1,12 +1,56 @@
-# burger-builder-app
+# Burger Builder App
 
 Web app made with React.js where you can build your own tasty burger and order it.
 
-# Getting Started with Create React App
+[See Live Project](https://burger-builder001.netlify.app/ "Go Live")
+
+## Table of Contents
+
+- [Burger Builder App](#burger-builder-app)
+  - [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Getting Started with Create React App](#getting-started-with-create-react-app)
+  - [Available Scripts for Local Development](#available-scripts-for-local-development)
+    - [`npm start`](#npm-start)
+    - [`npm test`](#npm-test)
+    - [`npm run build`](#npm-run-build)
+    - [`npm run eject`](#npm-run-eject)
+  - [License](#license)
+  - [Author](#author)
+
+## Prerequisites
+
+This project requires [NodeJS](http://nodejs.org/ "NodeJS") (version 10 or later) and [NPM](https://npmjs.org/ "NPM").
+
+To make sure you have them available on your machine,
+try running the following command.
+
+```sh
+$ npm -v
+7.20.0
+
+$ node -v
+v14.17.3
+```
+
+## Installation
+
+**BEFORE YOU INSTALL:** Please read the [Prerequisites](#prerequisites)
+
+Start with cloning this repo on your local machine and installing dependencies
+
+```sh
+$ git clone https://github.com/Smile040501/node-shop-app.git
+$ cd node-shop-app
+$ npm install
+```
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts for Local Development
 
 In the project directory, you can run:
 
@@ -43,32 +87,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project is covered under the MIT License.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Author
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[**Mayank Singla**](https://github.com/Smile040501)
